@@ -4,6 +4,7 @@
 : I convert from keras to pytorch, and change squeezeNet with VGG16.
 
 → I'll load soon siames network, triplet network, arcface network (backbone network: SqueezeNet(based on ResNet101), ResNet50)
+
 → Few shot based. I'm excecuting above project in progress
 
 ### 2. Dataset RGBD
